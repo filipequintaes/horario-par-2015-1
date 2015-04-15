@@ -87,6 +87,9 @@
       <class id="*25" name="SUB_MECA_2N" htmlexportlink="index.html?frame=24"/>
       <class id="*26" name="TEC_SIST_INTER_2V" htmlexportlink="index.html?frame=25"/>
       <class id="*27" name="ESP_ENS_CeM_1N" htmlexportlink="index.html?frame=26"/>
+      <class id="*28" name="INT_MEC_2DV" htmlexportlink="index.html?frame=27"/>
+      <class id="*29" name="INT_INFO_2DV" htmlexportlink="index.html?frame=28"/>
+      <class id="*30" name="INT_INFO_1DV" htmlexportlink="index.html?frame=29"/>
    </classes>
    <subjects options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
       <subject id="*1" name="Administração de Sistemas Abertos" short="AdmSISAB" htmlexportlink=""/>
