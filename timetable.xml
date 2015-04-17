@@ -203,6 +203,12 @@
       <classroom id="*23" name="Laboratório de Soldagem" short="LabSolda" htmlexportlink="rooms.html?frame=22"/>
       <classroom id="*24" name="Laboratório Pneumática" short="LabPneuMat" htmlexportlink="rooms.html?frame=23"/>
       <classroom id="*25" name="Laboratório de Línguas" short="LabLinguas" htmlexportlink="rooms.html?frame=24"/>
+      <classroom id="*26" name="Sala 1 A (50 alunos)" short="S1A" htmlexportlink="rooms.html?frame=25"/>
+      <classroom id="*27" name="Sala 2 A (36 alunos)" short="S2A" htmlexportlink="rooms.html?frame=26"/>
+      <classroom id="*28" name="Sala 3 A (36 alunos)" short="S3A" htmlexportlink="rooms.html?frame=27"/>
+      <classroom id="*29" name="Sala 4 A (36 alunos)" short="S4A" htmlexportlink="rooms.html?frame=28"/>
+      <classroom id="*30" name="Sala 5 A 936 alunos)" short="S5A" htmlexportlink="rooms.html?frame=29"/>
+      <classroom id="*31" name="Sala 6 A (50 alunos)" short="S6A" htmlexportlink="rooms.html?frame=30"/>
    </classrooms>
    <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
    <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="0" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
