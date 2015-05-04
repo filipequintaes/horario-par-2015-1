@@ -211,7 +211,7 @@
       <classroom id="*31" name="Sala 6 A (50 alunos)" short="S6A" htmlexportlink="rooms.html?frame=30"/>
    </classrooms>
    <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
-   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="0" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
+   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="1" bPrintSummaryTeacher="1" bPrintSummaryClassroom="1" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
       <Weeks W0="Todas as semanas" W1="Semana A"/>
       <Terms T0="Todo o ano" T1="Duração 1"/>
       <strPrintWeek>Semana</strPrintWeek>
