@@ -58,6 +58,8 @@
       <teacher id="*55" name="Raoni Souza" short="Raoni" htmlexportlink="teachers_1.html?frame=4"/>
       <teacher id="*56" name="Aylana Raquel" short="Aylana" htmlexportlink="teachers_1.html?frame=5"/>
       <teacher id="*57" name="Filipe Quintaes" short="Quintaes" htmlexportlink="teachers_1.html?frame=6"/>
+      <teacher id="*58" name="Xenia Silva Gomes" short="XSG" htmlexportlink="teachers_1.html?frame=7"/>
+      <teacher id="*59" name="Tadeu Ferreira Oliveira" short="Tadeu" htmlexportlink="teachers_1.html?frame=8"/>
    </teachers>
    <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
       <class id="*1" name="INT_INFO_1AM" htmlexportlink="index.html?frame=0"/>
@@ -90,6 +92,7 @@
       <class id="*28" name="INT_MEC_2DV" htmlexportlink="index.html?frame=27"/>
       <class id="*29" name="INT_INFO_2DV" htmlexportlink="index.html?frame=28"/>
       <class id="*30" name="INT_INFO_1DV" htmlexportlink="index.html?frame=29"/>
+      <class id="*31" name="SUB_REDES_4N_DEP" htmlexportlink="index.html?frame=30"/>
    </classes>
    <subjects options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
       <subject id="*1" name="Administração de Sistemas Abertos" short="AdmSISAB" htmlexportlink=""/>
@@ -209,9 +212,10 @@
       <classroom id="*29" name="Sala 4 A (36 alunos)" short="S4A" htmlexportlink="rooms.html?frame=28"/>
       <classroom id="*30" name="Sala 5 A 936 alunos)" short="S5A" htmlexportlink="rooms.html?frame=29"/>
       <classroom id="*31" name="Sala 6 A (50 alunos)" short="S6A" htmlexportlink="rooms.html?frame=30"/>
+      <classroom id="*32" name="Laboratório de Acionamento de Máquinas" short="LabAcMaq" htmlexportlink="rooms.html?frame=31"/>
    </classrooms>
    <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
-   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="1" bPrintSummaryTeacher="1" bPrintSummaryClassroom="1" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
+   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="0" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
       <Weeks W0="Todas as semanas" W1="Semana A"/>
       <Terms T0="Todo o ano" T1="Duração 1"/>
       <strPrintWeek>Semana</strPrintWeek>
