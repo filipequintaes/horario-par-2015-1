@@ -49,7 +49,7 @@
       <teacher id="*46" name="Tiago Costa" short="Tiago" htmlexportlink="teachers_0.html?frame=45"/>
       <teacher id="*47" name="Zulmar Jofli" short="Zulmar" htmlexportlink="teachers_0.html?frame=46"/>
       <teacher id="*48" name="Aline Gomes" short="Aline" htmlexportlink="teachers_0.html?frame=47"/>
-      <teacher id="*49" name="Substituto de Matemática" short="Subst Mat" htmlexportlink="teachers_0.html?frame=48"/>
+      <teacher id="*49" name="João Mesquita" short="Subst Mat" htmlexportlink="teachers_0.html?frame=48"/>
       <teacher id="*50" name="Felipe Campos" short="Felipe Campos" htmlexportlink="teachers_0.html?frame=49"/>
       <teacher id="*51" name="Gustavo Fernandes" short="Gustavo Fernandes" htmlexportlink="teachers_1.html?frame=0"/>
       <teacher id="*52" name="Paulo Vitor" short="Paulo Vitor" htmlexportlink="teachers_1.html?frame=1"/>
@@ -60,6 +60,7 @@
       <teacher id="*57" name="Filipe Quintaes" short="Quintaes" htmlexportlink="teachers_1.html?frame=6"/>
       <teacher id="*58" name="Xenia Silva Gomes" short="XSG" htmlexportlink="teachers_1.html?frame=7"/>
       <teacher id="*59" name="Tadeu Ferreira Oliveira" short="Tadeu" htmlexportlink="teachers_1.html?frame=8"/>
+      <teacher id="*60" name="Kleber Araújo" short="KA" htmlexportlink="teachers_1.html?frame=9"/>
    </teachers>
    <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
       <class id="*1" name="INT_INFO_1AM" htmlexportlink="index.html?frame=0"/>
